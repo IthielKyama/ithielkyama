@@ -4,10 +4,10 @@
 
 I am a Computer Science student passionate about building functional and efficient software. I have a strong background in mobile and backend development, and I'm currently expanding my skills in frontend frameworks.
 
-- 🔭 I’m currently working on **Booking Web App**
+- 🔭 I’m currently working on a **Booking Web App**
 - 🌱 I’m currently learning **React** to master modern web development
 - 🎨 I use **Figma** to bring my designs to life before coding
-- ⚡ Fun fact: When I'm not coding, I'm likely watching **F1** a **football** match.
+- ⚡ Fun fact: When I'm not coding, I'm likely watching **F1** or a **football** match.
 
 ---
 
