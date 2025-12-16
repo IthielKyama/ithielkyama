@@ -7,7 +7,7 @@ I am a Computer Science student passionate about building functional and beautif
 - 🔭 I’m currently working on **Booking Web App**
 - 🌱 I’m currently learning **React** to master modern web development
 - 🎨 I use **Figma** to bring my designs to life before coding
-- ⚡ Fun fact: When I'm not coding, I'm likely watching **F1** (waiting for lights out!) or catching a **football** match.
+- ⚡ Fun fact: When I'm not coding, I'm likely watching **F1** a **football** match.
 
 ---
 
