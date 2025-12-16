@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Computer Science Student & Tech Enthusiast
 
-I am a Computer Science student passionate about building functional and beautiful software. I have a strong background in mobile and backend development, and I'm currently expanding my skills in frontend frameworks.
+I am a Computer Science student passionate about building functional and efficient software. I have a strong background in mobile and backend development, and I'm currently expanding my skills in frontend frameworks.
 
 - 🔭 I’m currently working on **Booking Web App**
 - 🌱 I’m currently learning **React** to master modern web development
