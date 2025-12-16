@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ithiel Kyama! 👋
 
 ### 👨‍💻 Computer Science Student & Tech Enthusiast
 
@@ -31,6 +31,5 @@ I am a Computer Science student passionate about building functional and beautif
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ithielkyama&show_icons=true&theme=radical&hide_border=true" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithielkyama&layout=compact&theme=radical&hide_border=true" alt="languages" />
 </p>
